@@ -8,7 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/fernandoceliscc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Microsoft Azure: Virtual Machine](https://github.com/fernandoceliscc/Microsoft-Azure-Creating-a-Virtual-Machine/blob/main/README.md)
-  - [Microsoft Azure: Active Directory set up within VM](https://github.com/fernandoceliscc/Microsoft-Azure-Active-Directory/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
